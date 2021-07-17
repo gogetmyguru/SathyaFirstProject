@@ -21,5 +21,16 @@
   *  Git commands:
   -----------------
   * Push my code from Local to Remote
-  
+  * Create a Project
+  * git init---------------->
+  * git remote add origin Https-Path
+  * git add .
+  * git commit -m "Readme File Updated"
+  * git push origin master
+
+
+
+
+
+
 
