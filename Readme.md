@@ -24,6 +24,10 @@
   * git commit -m "Readme File Updated"
   * git push origin master
 
+  Azure Cloud
+  AWS
+  GCP
+
 
 
 
