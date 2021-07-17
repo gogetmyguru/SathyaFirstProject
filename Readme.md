@@ -1,7 +1,7 @@
 # Visual Studio code
-  https://code.visualstudio.com/
+  [Visual Studio Code](https://code.visualstudio.com/)
 # Git SCM
-  http://git-scm.com/
+  [GIT SCM](http://git-scm.com/)
 # Cycle:
   Agile Process:
   Daily Scrum Meeting
@@ -9,13 +9,9 @@
   Testing---------------------Test Env
   Production-Deployment-------Production
   CI/CD
-  ------------------------------------------
-  github-->
-
+  
 # GitHub Account
-  https://github.com/login
-  username:sathya074
-  password:Sathya@123321
+  [GitHub Login](https://github.com/login)
 
 # Create a Project
   *  Git commands:
@@ -27,8 +23,6 @@
   * git add .
   * git commit -m "Readme File Updated"
   * git push origin master
-
-
 
 
 
